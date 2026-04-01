@@ -12,7 +12,7 @@
     "apollo-link": "^1.2.14",
     "apollo-link-http": "^1.5.17",
     "apollo-link-retry": "^2.2.16",
-    "apollo-link-timeout": "^4.0.0",
+    "apollo-link-timeout": "^5.0.0",
     "graphql": "^15.5.0",
     "graphql-tag": "^2.12.4",
     "mongodb": "^3.6.9",
